@@ -1,5 +1,4 @@
 
-# moto.py
 # ============================================================
 # Proyecto Final POO - Grupo 1: Alquiler de vehículos
 # Integrantes:
